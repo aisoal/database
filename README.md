@@ -61,4 +61,4 @@ Setelah proses selesai, Anda akan melihat pesan sukses berwarna hijau. Pastikan 
 
 ## ⚙️ Konfigurasi AI
 
-Lanjut [📄 Lihat Panduan](./ai)
+Lanjut [📄 Lihat Panduan](https://github.com/aisoal/ai)
